@@ -13,14 +13,20 @@ question, but hopefully evolvable into something more complete:
 * garbage collection 
 * closures
 
+Other ideas, added later:
+
+* various optimizations, such as loop optimizations, strength reduction, and data-flow optimizations
+* register allocation
+
 I expect to delve deeply into [the Dragon book](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811),
 [SICP](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Edition/dp/0070004846),
 and [Modern Compiler Design](http://www.amazon.com/Modern-Compiler-Design-D-Grune/dp/0471976970) in
 order to learn more of the theory and practice of writing compilers. It'll be both a learning
 experience and a teaching experience. ☺
 
-Oh, and the plan is to use Perl 6 as the implementation language throughout the
-book. Partly because it's a pleasant langauge which will easily and succinctly
-express the points of the text; partly because it'll give us parsing for free
-through grammars. So we don't have to reinvent the wheel there. In fact, that's
-part of the intended use of Perl 6 &mdash; as a sort of "language incubator".
+My plan:
+
+* Use nqp as the implementation language/compiler platform. It has Perl 6 grammars and is meant
+  to be used to build higher-level languages.
+* Build a language (called "Nugget") which is easy to read and explain. It has a small core and
+  is easy to improve in various directions. It is powerful enough to self-host a parser easily.
