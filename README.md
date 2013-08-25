@@ -30,3 +30,5 @@ My plan:
   to be used to build higher-level languages.
 * Build a language (called "Nugget") which is easy to read and explain. It has a small core and
   is easy to improve in various directions. It is powerful enough to self-host a parser easily.
+
+Oh, here's another link, [full of compiler optimizations](https://news.ycombinator.com/item?id=6273085). Might be useful when I dig into the literature.
