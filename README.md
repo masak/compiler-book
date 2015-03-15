@@ -32,3 +32,5 @@ My plan:
   is easy to improve in various directions. It is powerful enough to self-host a parser easily.
 
 Oh, here's another link, [full of compiler optimizations](https://news.ycombinator.com/item?id=6273085). Might be useful when I dig into the literature.
+
+vendethiel suggested I have a look at [this set of AST-based compiler optimizations](https://github.com/estools/esmangle/tree/master/lib/pass). Looks very cool. Apparently there's a [tool](https://github.com/estools/esmangle/tree/master/test/compare) to see exactly what an optimization did.
