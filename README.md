@@ -47,6 +47,11 @@ The plan that falls out of that idea is something like this:
 * Meta-object protocol
     * `Object` and `Type`
     * Bootstrapping everything
+* Type declarations
+    * Typed variables and parameters
+    * Type inference
+    * Interfaces
+    * Generic types
 * Macros
 * JIT
 * ...
