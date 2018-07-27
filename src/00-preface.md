@@ -121,3 +121,5 @@ a supercompiler, which we can then use in our regular compilers.
 XXX Grace Hopper and that text about the idea behind compilation
 
 XXX JIT compilation
+
+XXX In conclusion: compilers are amazing, there are lots of useful terms and patterns in there applicable far beyond compilation, and it's actually not that hard, except well it is, but still kind of approachable in its essence
