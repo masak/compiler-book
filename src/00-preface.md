@@ -44,9 +44,9 @@ of errors. There is no longer any required interaction with the humans, and
 the need for tact is gone. Therefore the way the back end works can be brutish,
 single-minded, and unrefined. It makes sense; it's much easier to tear
 something down than to build something up. The code generator is working with
-the flow of entropy.
+the flow of entropy, downhill towards a flatter end result.
 
-If the story ended here, compilers would rise to the level of _fascinating_,
+If the story ended here, compilers would rise to the level of _interesting_,
 but hardly _amazing_.
 
 It's easy to mistakenly describe the job of the compiler as producing the
