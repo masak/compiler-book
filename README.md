@@ -3,7 +3,7 @@ Kudos also to [Matthew Walton](http://twitter.com/#!/MaW/status/1911729393019207
 for thinking it'd be a good idea. ☺
 
 These plans will most likely converge with bootstrapping
-[007](https://github.com/masak/007), and successively building out the language
+<del>[007](https://github.com/masak/007)</del> [Alma](https://github.com/masak/007/issues/277), and successively building out the language
 and the compiler can be interwoven with explaining and building optimizations.
 The different compiler steps can even be used as realistic benchmarking
 targets.
