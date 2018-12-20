@@ -68,3 +68,5 @@ experience and a teaching experience. ☺
 vendethiel suggested I have a look at [this set of AST-based compiler optimizations](https://github.com/estools/esmangle/tree/master/lib/pass). Looks very cool. Apparently there's a [tool](https://github.com/estools/esmangle/tree/master/test/compare) to see exactly what an optimization did.
 
 [This post](https://github.com/jozefg/pcf/blob/master/explanation.md) about compiling a small example language to C is just incredibly clear and inspiring.
+
+Here's a nice [collection of links](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler).
