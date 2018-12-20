@@ -70,3 +70,5 @@ vendethiel suggested I have a look at [this set of AST-based compiler optimizati
 [This post](https://github.com/jozefg/pcf/blob/master/explanation.md) about compiling a small example language to C is just incredibly clear and inspiring.
 
 Here's a nice [collection of links](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler).
+
+I found [T3X](https://www.t3x.org/t3x/), a nice small self-hosting language/compiler.
