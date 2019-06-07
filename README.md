@@ -72,3 +72,5 @@ vendethiel suggested I have a look at [this set of AST-based compiler optimizati
 Here's a nice [collection of links](https://stackoverflow.com/questions/1669/learning-to-write-a-compiler).
 
 I found [T3X](https://www.t3x.org/t3x/), a nice small self-hosting language/compiler.
+
+[This book](https://cs.brown.edu/courses/cs173/2012/book/) looks worth pursuing. So does [this one](https://www.craftinginterpreters.com/).
